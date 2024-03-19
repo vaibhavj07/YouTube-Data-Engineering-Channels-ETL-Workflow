@@ -19,6 +19,7 @@ What things you need to install the software and how to install them:
 - Apache Airflow
 - AWS CLI
 - `google-api-python-client` library
+- ` pandas ` library
 
 **Clone the repository**:
 git clone https://github.com/yourusername/youtube-data-engineering-project.git ```
